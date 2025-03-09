@@ -1,5 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgpslol&theme=tokyonight&langs_count=8&layout=compact)
-<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imgpslol&theme=dracula&show_icons=true&count_private=true)
 
 <!--
